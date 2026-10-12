@@ -1,0 +1,1 @@
+ATLAY Legal — review-only static website. Open index.html in a browser. Do not publish until privacy/legal facts, deletion procedure, EU controller identification, and platform requirements are verified. No changes to app repository.

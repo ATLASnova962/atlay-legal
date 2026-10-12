@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1706 260" preserveAspectRatio="none">
+<defs><filter id="glow" x="-30%" y="-400%" width="160%" height="900%"><feGaussianBlur stdDeviation="15"/></filter><linearGradient id="edge" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#3DD0D5"/><stop offset="1" stop-color="#00a4b8"/></linearGradient></defs>
+<path d="M -100 73 Q 853 393 1806 73" fill="none" stroke="#04c9d5" stroke-width="34" opacity=".7" filter="url(#glow)"/>
+<path d="M -100 73 Q 853 393 1806 73" fill="none" stroke="url(#edge)" stroke-width="2.2" opacity=".85"/>
+</svg>
